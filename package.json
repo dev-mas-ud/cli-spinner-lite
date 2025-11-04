@@ -1,6 +1,6 @@
 {
   "name": "cli-spinner-litex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny, dependency-free CLI spinner for Node.js",
   "main": "index.js",
   "type": "module",
