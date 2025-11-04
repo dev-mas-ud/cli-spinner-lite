@@ -1,7 +1,7 @@
 class Spinner {
   constructor(text = "Loading...", frames) {
     this.text = text;
-    this.frames = frames || ["⠋", "⠙", "⠸", "⠴", "⠦", "⠇"];
+    this.frames = frames || ["·", "●", "·", "○"];
     this.interval = 80;
     this.timer = null;
     this.frameIndex = 0;
