@@ -141,10 +141,10 @@ MIT © 2025 Mohammed (DevMasud)
 
 ---
 
-### ⭐ If you like this package
+### If you like this package
 
 Give it a ⭐ on [GitHub](https://github.com/dev-mas-ud/cli-spinner-litex)!
 
-### 💬 Connect
+### Connect
 
 Follow me on [X (Twitter)](https://x.com/DevMasud) for updates and dev tips! 🚀
