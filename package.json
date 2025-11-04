@@ -1,5 +1,5 @@
 {
-  "name": "cli-spinner-lite",
+  "name": "cli-spinner-litex",
   "version": "1.0.0",
   "description": "Tiny, dependency-free CLI spinner for Node.js",
   "main": "index.js",
