@@ -74,7 +74,7 @@ Stops the spinner and prints a success checkmark (`✔`).
 
 Stops the spinner and prints a failure cross (`✖`).
 
-### `.setStyle(frames)`
+### `.setStyle(frames.pulse)`
 
 Switches the spinner style dynamically.
 
@@ -108,7 +108,7 @@ export const spinners = {
 
 ✅ Zero dependencies  
 ✅ Works on macOS, Linux, and Windows  
-✅ Small (~150 lines)  
+✅ Small (~55 lines of code)  
 ✅ Customizable spinner frames  
 ✅ Perfect for any CLI script or Node.js tool
 
@@ -133,49 +133,16 @@ Output:
 ```
 ⠋ Running heavy task...
 ✔ Task completed!
-```
-
----
-
-## 🧪 Local Testing
-
-To test before publishing:
-
-```bash
-npm link
-```
-
-Then in another project:
-
-```bash
-npm link cli-spinner-lite
-```
-
----
-
-## 📦 Publish to npm
-
-1. Log in:
-   ```bash
-   npm login
-   ```
-2. Publish:
-   ```bash
-   npm publish --access public
-   ```
-3. Test it anywhere:
-   ```bash
-   npm install cli-spinner-lite
-   ```
 
 ---
 
 ## 📄 License
 
-MIT © 2025 [Your Name]
+MIT © 2025 Mohammed (DevMasud)
 
 ---
 
 ### ⭐ If you like this package
 
 Give it a ⭐ on [GitHub](https://github.com/dev-mas-ud/cli-spinner-lite) or share it on npm!
+```
