@@ -38,8 +38,8 @@ setTimeout(() => {
 When you run this script in your terminal, the spinner will animate as your code runs:
 
 ```
-⠋ Fetching data...
-⠙ Still working...
+○ Fetching data...
+○ Still working...
 ✔ Completed successfully!
 ```
 
@@ -131,10 +131,9 @@ setTimeout(() => {
 Output:
 
 ```
-⠋ Running heavy task...
+○ Running heavy task...
 ✔ Task completed!
-
----
+```
 
 ## 📄 License
 
@@ -145,4 +144,7 @@ MIT © 2025 Mohammed (DevMasud)
 ### ⭐ If you like this package
 
 Give it a ⭐ on [GitHub](https://github.com/dev-mas-ud/cli-spinner-lite) or share it on npm!
+
+```
+
 ```
