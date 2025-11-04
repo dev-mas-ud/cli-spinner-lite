@@ -178,4 +178,4 @@ MIT © 2025 [Your Name]
 
 ### ⭐ If you like this package
 
-Give it a ⭐ on [GitHub](https://github.com/yourusername/cli-spinner-lite) or share it on npm!
+Give it a ⭐ on [GitHub](https://github.com/dev-mas-ud/cli-spinner-lite) or share it on npm!
