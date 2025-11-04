@@ -1,8 +1,8 @@
-# 🌀 cli-spinner-lite
+# 🌀 cli-spinner-litex
 
-[![npm version](https://img.shields.io/npm/v/cli-spinner-lite.svg)](https://www.npmjs.com/package/cli-spinner-lite)
-[![npm downloads](https://img.shields.io/npm/dm/cli-spinner-lite.svg)](https://www.npmjs.com/package/cli-spinner-lite)
-[![license](https://img.shields.io/npm/l/cli-spinner-lite.svg)](LICENSE)
+[![npm version](https://img.shields.io/npm/v/cli-spinner-litex.svg)](https://www.npmjs.com/package/cli-spinner-litex)
+[![npm downloads](https://img.shields.io/npm/dm/cli-spinner-litex.svg)](https://www.npmjs.com/package/cli-spinner-litex)
+[![license](https://img.shields.io/npm/l/cli-spinner-litex.svg)](LICENSE)
 
 A **tiny**, dependency-free CLI spinner for Node.js — perfect for showing progress during async tasks, installs, or API calls.
 
@@ -11,17 +11,17 @@ A **tiny**, dependency-free CLI spinner for Node.js — perfect for showing prog
 ## 🚀 Installation
 
 ```bash
-npm install cli-spinner-lite
+npm install cli-spinner-litex
 ```
 
 ---
 
 ## 🧠 Usage Example
 
-Use `cli-spinner-lite` to display a simple, animated spinner during any asynchronous process.
+Use `cli-spinner-litex` to display a simple, animated spinner during any asynchronous process.
 
 ```js
-import Spinner from "cli-spinner-lite";
+import Spinner from "cli-spinner-litex";
 
 const spin = new Spinner("Fetching data...");
 spin.start();
@@ -82,10 +82,10 @@ Switches the spinner style dynamically.
 
 ## 🎨 Spinner Styles
 
-`cli-spinner-lite` includes a few built-in animation frame sets you can use:
+`cli-spinner-litex` includes a few built-in animation frame sets you can use:
 
 ```js
-import Spinner, { spinners } from "cli-spinner-lite";
+import Spinner, { spinners } from "cli-spinner-litex";
 
 const spin = new Spinner("Processing...", spinners.line);
 spin.start();
@@ -104,7 +104,7 @@ export const spinners = {
 
 ---
 
-## 🪶 Why cli-spinner-lite?
+## 🪶 Why cli-spinner-litex?
 
 ✅ Zero dependencies  
 ✅ Works on macOS, Linux, and Windows  
@@ -118,7 +118,7 @@ export const spinners = {
 
 ```js
 #!/usr/bin/env node
-import Spinner from "cli-spinner-lite";
+import Spinner from "cli-spinner-litex";
 
 const spinner = new Spinner("Running heavy task...");
 spinner.start();
@@ -143,7 +143,7 @@ MIT © 2025 Mohammed (DevMasud)
 
 ### ⭐ If you like this package
 
-Give it a ⭐ on [GitHub](https://github.com/dev-mas-ud/cli-spinner-lite) or share it on npm!
+Give it a ⭐ on [GitHub](https://github.com/dev-mas-ud/cli-spinner-litex) or share it on npm!
 
 ```
 
